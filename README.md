@@ -1,1 +1,1 @@
-# Laboratorium
+# Laboratorium narzędzia
